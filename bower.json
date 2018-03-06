@@ -1,0 +1,22 @@
+{
+  "name": "craze-app",
+  "description": "A simple landing page",
+  "main": "",
+  "authors": [
+    "Mateus Gomes <mateusgff@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mateusgf",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
